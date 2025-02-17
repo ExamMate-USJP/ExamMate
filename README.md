@@ -54,7 +54,7 @@ flutter run
 
 Run `flutter pub get` whenever:
 
-- Setting up a new Flutter project (after cloning the repo).
+- Setting up a new Flutter project (after cloning the repository).
 - Adding new dependencies to `pubspec.yaml`.
 - Switching branches that modify dependencies.
 
