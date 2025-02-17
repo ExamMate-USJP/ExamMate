@@ -7,8 +7,7 @@ ExamMate is a student-focused app designed to help users efficiently track their
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Running the Development Server](#running-the-development-server)
-<!-- - [Usage](#usage) -->
+- [Running the Development Server](#running-the-development-server)<!-- - [Usage](#usage) -->
 - [Contributing](#contributing)
 - [License](#license)
 
