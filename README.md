@@ -1,5 +1,7 @@
 # ExamMate
 
+![ExamMate-Logo](public/logo/exammate-logo-full.jpg)
+
 ExamMate is a student-focused app designed to help users efficiently track their exams, manage study schedules, and stay organized. With features like upcoming exam tracking, past paper access, subject management and study progress tracking, ExamMate ensures students stay on top of their academic goals.This is an Mobile Application developed using Flutter.
 
 ## Table of Contents
