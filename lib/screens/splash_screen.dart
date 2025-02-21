@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import '../routes.dart';
-// import '../styles/app_colors.dart';
-// import '../styles/app_text.dart';
 import '../widgets/custom_button.dart';
 import '../styles/app_styles.dart';
 
@@ -76,7 +74,7 @@ class SplashScreen extends StatelessWidget {
                         'assets/logo/logo-white-nobg.png', // Ensure this exists in assets
                         height: 100,
                       ),
-                      const SizedBox(height: 15),
+                      SizedBox(height: 15),
                       Text(
                         'Prepare. Practice. Perform.',
                         style: AppStyles.subtitleStyle,
@@ -85,7 +83,7 @@ class SplashScreen extends StatelessWidget {
                         '"Your Exam Companion, Every Step of the Way."',
                         style: AppStyles.subtitleStyle,
                       ),
-                      const SizedBox(height: 20),
+                      SizedBox(height: 20),
 
                       // Sign In Button
                       SizedBox(
@@ -99,7 +97,7 @@ class SplashScreen extends StatelessWidget {
                           },
                         ),
                       ),
-                      const SizedBox(height: 10),
+                      SizedBox(height: 10),
 
                       // Sign Up Button
                       SizedBox(
